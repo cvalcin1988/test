@@ -6,3 +6,5 @@ puts("My heart pumps caramel through a system of candy canes and cupcakes.")
 puts("Alas, man cannot thrive on confections alone")
 puts("It is beer that I crave.")
 puts("It is the fuel of GODS")
+
+puts("With beer in hand, and cupcake in other, I see POTENTIAL")
