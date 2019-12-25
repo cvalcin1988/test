@@ -11,6 +11,11 @@ puts("YES I'LL BE...")
 puts("I see you with beer in hand, and cupcake in other.")
 puts("You might have POTENTIAL.")
 
+# TIGOLBITTIES
+# TIGOLBITTIES
+# TIGOLBITTIES
+# TIGOLBITTIES
+
 let name;
 puts ("Give me Your name Mortal")
 gets.to(name)
