@@ -9,3 +9,8 @@ puts("It is beer that I crave.")
 puts("It is the fuel of GODS")
 
 puts("With beer in hand, and cupcake in other, I see POTENTIAL")
+
+let name;
+puts ("Give me Your Mortal")
+gets.to(name)
+puts(name + ", you stand before the Spirit of the FEAST!")
