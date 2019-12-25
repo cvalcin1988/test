@@ -14,3 +14,4 @@ let name;
 puts ("Give me Your Mortal")
 gets.to(name)
 puts(name + ", you stand before the Spirit of the FEAST!")
+puts("Take up your utensil! May your enemies feel the might of your fork and spoon!")
