@@ -6,9 +6,10 @@ puts("My body is made of ICE CREAM CAKE, I excrete yogurt when I defecate")
 
 puts("Alas, man cannot thrive on confections alone")
 puts("It is beer that I crave.")
-puts("It is the fuel of GODS")
-
-puts("With beer in hand, and cupcake in other, I see POTENTIAL")
+puts("It is the fuel of GODS, and I will be...")
+puts("YES I'LL BE...")
+puts("I see you with beer in hand, and cupcake in other.")
+puts("You might have POTENTIAL.")
 
 let name;
 puts ("Give me Your name Mortal")
@@ -20,4 +21,4 @@ puts("SPOON THEM TO DEATH!")
 puts("Yes spirit. I will spread my custard from land to land!")
 puts("I will pump them till completion!")
   
-puts("You have served me well mortal.")
+puts("You've done well, mortal.")
