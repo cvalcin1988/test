@@ -11,7 +11,10 @@ puts("It is the fuel of GODS")
 puts("With beer in hand, and cupcake in other, I see POTENTIAL")
 
 let name;
-puts ("Give me Your Mortal")
+puts ("Give me Your name Mortal")
 gets.to(name)
 puts(name + ", you stand before the Spirit of the FEAST!")
-puts("Take up your utensil! May your enemies feel the might of your fork and spoon!")
+puts("Take up your utensil! Make your enemies feel the might of your fork!"
+puts("SPOON THEM TO DEATH!")
+
+puts("Spread your custard from land to land!")
